@@ -23,7 +23,7 @@ Code Machine Learning Pipelines - The Right Way.
     :alt: Neuraxle Logo
     :align: center
 
-Neuraxle is a Machine Learning (ML) library for building machine learning pipelines.
+Neuraxle is a Machine Learning (ML) library for building machine learning pipelines
 
 - **Component-Based**: Build encapsulated steps, then compose them to build complex pipelines.
 - **Evolving State**: Each pipeline step can fit, and evolve through the learning process
