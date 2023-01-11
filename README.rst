@@ -1,5 +1,5 @@
 
-Neuraxle Pipelines
+Neuraxle  Pipelines
 ==================
 
 Code Machine Learning Pipelines - The Right Way.
